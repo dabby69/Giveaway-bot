@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+import random
 client = commands.Bot(commands_prefix="g!")
 
 def convert(time):

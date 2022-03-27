@@ -10,4 +10,4 @@ async def on_message(message):
 
 	await bot.process_commands(message)
 
-bot.run("OTU3MjcxMzA4ODEzNjMxNDg4.Yj8WYQ.QQa02Nr0I5FBu_PHD9Hmz8Hxd3g")
+bot.run("Your Tocken Here")
